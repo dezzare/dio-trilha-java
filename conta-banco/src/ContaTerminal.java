@@ -1,3 +1,13 @@
+
+/**
+* <h1>Nova conta</h1>
+* Adiciona uma nova conta
+* <p>
+*
+* @author  Pedro de Mesquita Bittencourt
+* @version 0.0.1
+* @since   08/07/2022
+*/
 import java.util.Scanner;
 import java.util.Locale;
 
